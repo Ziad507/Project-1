@@ -113,7 +113,7 @@ button:hover{
 }
 
 .image-wrapper img{
-    max-width: 500px;
+    width: 500px;
 }
 
 .A{
@@ -127,7 +127,7 @@ button:hover{
         flex-direction: column;
     }
     .image-wrapper img{
-        max-width: 400px;
+        display: none;
     }
 }
 
